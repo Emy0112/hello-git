@@ -1,0 +1,1 @@
+GitHub sirve para que varias personas trabajen en el mismo proyecto, guarden el historial de cambios y colaboren desde distintos lugares.
